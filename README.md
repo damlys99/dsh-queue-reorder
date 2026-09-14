@@ -7,7 +7,9 @@
 Reorder the messages you queued while a DSH agent was busy — **inside the
 official queue dock**, not in a panel beside it.
 
-![The queue dock with per-row move buttons; the last row's "move later" is correctly disabled](assets/queue-dock.png)
+![The queue dock: two queued messages, each with a drag handle and move buttons beside the dock's own edit, remove and steer actions](https://raw.githubusercontent.com/damlys99/dsh-queue-reorder/main/assets/queue-dock.png)
+
+![The same dock sitting above the composer](https://raw.githubusercontent.com/damlys99/dsh-queue-reorder/main/assets/queue-dock-with-composer.png)
 
 ## What you get
 
