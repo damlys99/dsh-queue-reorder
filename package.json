@@ -11,6 +11,7 @@
   },
   "files": [
     "lib",
+    "screenshots.json",
     "cordis.patch.yml",
     "README.md",
     "LICENSE"
