@@ -1,0 +1,4 @@
+# dsh-queue-reorder bundle patch: add the row to whichever profile installs it.
+- insert:
+    - id: queue-reorder
+      name: dsh-queue-reorder
