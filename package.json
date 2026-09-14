@@ -1,6 +1,6 @@
 {
   "name": "dsh-queue-reorder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reorder queued messages inside the DeepSeek Harness Web GUI queue dock: grip-and-drag plus move buttons, without taking over the official dock.",
   "type": "module",
   "main": "./lib/index.js",
